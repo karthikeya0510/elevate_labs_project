@@ -1,4 +1,4 @@
-![output1](https://github.com/user-attachments/assets/6b34df67-b918-4296-9e75-41b768a74683)Developer Portfolio Generator
+Developer Portfolio Generator
 A powerful web application that converts Markdown-based resumes and portfolios into beautiful, customizable websites with GitHub Pages deployment support.
 
 🚀 Features
